@@ -1,0 +1,7 @@
+pkg upgrade && pkg update
+pkg install git
+
+git clone https://github.com/Hex566/Tools-DorTri
+- cd Tools-DorTri
+Pkg install php7
+- php dortri.php
